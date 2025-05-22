@@ -4,3 +4,9 @@
 
 azure-functions>=1.12.0
 fastapi
+supabase
+python-jose[cryptography]
+python-multipart
+opencv-python-headless
+torch
+numpy
